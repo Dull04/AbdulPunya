@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672570339 source:c:\file koding\tp_mod_15\tepemod15\main.cpp
+	"Tree.h"
+
+1672570642 source:c:\file koding\tp_mod_15\tepemod15\tree.cpp
+	"Tree.h"
+
+1672595715 c:\file koding\tp_mod_15\tepemod15\tree.h
+	<iostream>
+
